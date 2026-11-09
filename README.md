@@ -20,5 +20,8 @@ Gosto de criar ferramentas simples que poupam tempo — automação em Python e 
 
 | Projeto | O que faz | Tecnologias |
 |---|---|---|
-| [**Extrator de Faturas**](https://github.com/martiinnsss/extrator-faturas) | Lê faturas em PDF e junta tudo num Excel organizado, com totais automáticos | Python · pdfplumber · openpyxl |
+| [**Calculadora de Salário Líquido**](https://github.com/martiinnsss/salario-liquido) · [demo](https://martiinnsss.github.io/salario-liquido/) | Quanto recebes ao fim do mês em Portugal, com as tabelas oficiais de IRS de 2026 | HTML · CSS · JavaScript |
+| [**Simulador de Crédito Habitação**](https://github.com/martiinnsss/credito-habitacao) · [demo](https://martiinnsss.github.io/credito-habitacao/) | Prestação, juros, imposto do selo, taxa de esforço e amortização antecipada | HTML · CSS · JavaScript |
+| [**Quanto Custa a Viagem?**](https://github.com/martiinnsss/custo-viagem) · [demo](https://martiinnsss.github.io/custo-viagem/) | Combustível, portagens e estacionamento de uma viagem, dividido por quem vai | HTML · CSS · JavaScript |
 | [**Gestor de Subscrições**](https://github.com/martiinnsss/gestor-subscricoes) · [demo](https://martiinnsss.github.io/gestor-subscricoes/) | Mostra quanto gastas por mês em subscrições e avisa antes de cada renovação | HTML · CSS · JavaScript |
+| [**Extrator de Faturas**](https://github.com/martiinnsss/extrator-faturas) | Lê faturas em PDF e junta tudo num Excel organizado, com totais automáticos | Python · pdfplumber · openpyxl |
